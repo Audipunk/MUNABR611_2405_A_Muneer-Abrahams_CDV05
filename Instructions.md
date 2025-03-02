@@ -1,6 +1,6 @@
 ## Project Structure
 
-The project consists of the following key files:
+The project consists of the following languages:
 
 - **`index.html`**: The main HTML file for the portfolio.
 - **`styles.css`**: The css is contained within the Html file.
